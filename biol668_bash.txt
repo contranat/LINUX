@@ -1,0 +1,18 @@
+#!bin/bash
+
+
+
+# ps refers to processing status, -A lists all the processes on entire system, -m shows the threads along with processes, the outputof those commands becomes piped to "grep '/usr'" which searches processes containing 'usr', the result of the grep command then gets pipped to "head" which shows the first few lines of one or more files
+
+ps -Am | grep '/usr' | head 
+
+
+#"grep" searches and "-c" counts the number of times 'libexec' appears in out.txt
+
+grep -c 'libexec' out.txt
+
+date #displays the data and time of the system
+cal #displays the calendar
+whoami #shows current username
+df -i #displays inode usage which is the data strucutre containing information about the file 
+which python #displays the full path of python
