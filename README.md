@@ -25,10 +25,13 @@ Example usage:
 
 # Fasta project
 
-Fasta script is ran within your home directory in a folder called RAW_DATA. In this folder make sure to have your .sh file along with "bigdata.fna.qz"
+Fasta script is ran within your home directory in a folder called RAW_DATA. In this folder make sure to have your .sh file along with "bigdata.fna.qz". 
 
 <img width="544" alt="Screenshot 2025-05-07 at 10 52 54 PM" src="https://github.com/user-attachments/assets/1ba34886-9384-446c-906d-d1d7e095c215" />
 
 
 # Backup.sh project
+
+
+
 
