@@ -22,14 +22,14 @@ Example usage:
 $./Contreras_backup.sh TMP/  
 
 output:
-Directory /Users/nat/BACKUP_FILES exists.
-cp: TMP//*: No such file or directory
-TMP//* copied to /Users/nat/BACKUP_FILES
-total 80
-drwxr-xr-x   39 nat  staff   1248 Feb 27 19:54 .
-drwxr-x---+ 165 nat  staff   5280 May  7 21:37 ..
-drwxr-xr-x    3 nat  staff     96 Feb 23 16:07 1B1C4524-4D4E-4146-81E9-9444E2FC138C
-prw-r--r--    1 nat  staff      0 Feb 23 16:07 244F3333-E324-4D7D-8119-D68C7AAD1C3C_IN
+#Directory /Users/nat/BACKUP_FILES exists.
+#cp: TMP//*: No such file or directory
+#TMP//* copied to /Users/nat/BACKUP_FILES
+#total 80
+#drwxr-xr-x   39 nat  staff   1248 Feb 27 19:54 .
+#drwxr-x---+ 165 nat  staff   5280 May  7 21:37 ..
+#drwxr-xr-x    3 nat  staff     96 Feb 23 16:07 1B1C4524-4D4E-4146-81E9-9444E2FC138C
+#prw-r--r--    1 nat  staff      0 Feb 23 16:07 244F3333-E324-4D7D-8119-D68C7AAD1C3C_IN
 prw-r--r--    1 nat  staff      0 Feb 23 16:07 244F3333-E324-4D7D-8119-D68C7AAD1C3C_OUT
 prw-r--r--    1 nat  staff      0 Feb 23 16:07 31BF8281-3D76-4953-8421-D7259A42A8E4_IN
 prw-r--r--    1 nat  staff      0 Feb 23 16:07 31BF8281-3D76-4953-8421-D7259A42A8E4_OUT
