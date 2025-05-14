@@ -23,11 +23,19 @@ Example usage:
 
 Fasta script is ran within your home directory in a folder called RAW_DATA. In this folder make sure to have your .sh file along with "bigdata.fna.qz". 
 
+Example usage:
+
 <img width="544" alt="Screenshot 2025-05-07 at 10 52 54 PM" src="https://github.com/user-attachments/assets/1ba34886-9384-446c-906d-d1d7e095c215" />
 
 
 # Project Bash project
 
+This script should be ran under RAW_DATA directory located in your home directory. It copies all .fna fasta files and .csv files from home directory into RAW_DATA. Additionally, it creases two directories: P_DATA and RESULTS. All three directories are put on your path. Lastly, it writes everything into a readme.txt in home directory. On the command line, all information will be output in terminal.
+
+
+Example usage:
+
+<img width="844" alt="Screenshot 2025-05-13 at 10 25 18 PM" src="https://github.com/user-attachments/assets/8e4f6159-3c7a-45cb-a639-ad3cfb34d147" />
 
 
 
