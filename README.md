@@ -26,7 +26,7 @@ Fasta script is ran within your home directory in a folder called RAW_DATA. In t
 <img width="544" alt="Screenshot 2025-05-07 at 10 52 54 PM" src="https://github.com/user-attachments/assets/1ba34886-9384-446c-906d-d1d7e095c215" />
 
 
-# Backup.sh project
+# Project Bash project
 
 
 
